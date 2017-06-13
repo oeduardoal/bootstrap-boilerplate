@@ -3,7 +3,7 @@ Project to start development with Gulp, Bootstrap and its dependencies.sta
 
 ## Installation
 ```
-$ git clone ssh@github.com:oeduardoal/bootstrap-boilerplate.git project
+$ git clone git@github.com:oeduardoal/bootstrap-boilerplate.git project
 ```
 
 ## Starting
