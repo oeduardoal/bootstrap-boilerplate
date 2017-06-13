@@ -8,11 +8,14 @@ $ git clone ssh@github.com:oeduardoal/bootstrap-boilerplate.git project`
 
 ## Starting
 ### Install packages
-` cd project && npm i `
+```
+cd project && npm i
+```
 
 ## Gulp
-` $ gulp ` 
-
+```
+$ gulp
+```
 ## License
 
 [MIT LICENSE](https://github.com/oeduardoal/bootstrap-boilerplate/blob/master/LICENSE) @ 2017 Eduardo Almeida
