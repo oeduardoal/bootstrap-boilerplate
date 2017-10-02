@@ -1,5 +1,5 @@
 window.jQuery = $ = require('jquery')
-global.Tether = require('tether');
+window.Popper = require('popper.js');
 require('bootstrap');
 
 (function($){
